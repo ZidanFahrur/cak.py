@@ -1,2 +1,2 @@
-# cam.py
+# cam
 Hacker cctv
