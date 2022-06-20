@@ -1,2 +1,0 @@
-# cak.py
-Hacker cctv
